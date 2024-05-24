@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&display=swap');
+body{
+    background-image: url("https://marketplace.canva.com/EAFyeBIm5_4/2/0/900w/canva-beauty-flowers-watercolor-background-instagram-story-ieQuiyd1swA.jpg");
+    background-size: 1300px 600px;
+    background-repeat: no-repeat;
+}
+div{
+    margin-left: 500px;
+    margin-top:150px;
+    font: size 15px;
+    font-family: "Lexend Deca", sans-serif;
+}

@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&display=swap');
+button{
+    width:300px;
+    height:90px;
+    margin-left:500px;
+    margin-top:150px;
+    font-size:30px;
+    background-image: linear-gradient(to top,rgb(149, 171, 222),rgb(255, 255, 175),rgb(163, 119, 163));
+    font-family: "Lexend Deca", sans-serif;
+    color: white;
+}
+body{
+    background-image: url("https://t4.ftcdn.net/jpg/02/08/90/79/360_F_208907901_vwJlqM8Nh0EWkESEYwAsXduVA1PxxoQi.jpg");
+    background-size: 1300px 600px;
+    background-repeat: no-repeat;
+}
